@@ -1,4 +1,4 @@
-🌊 Helmwave is **[helm3](https://github.com/helm/helm/)-native** tool for deploy your Helm Charts via **GitOps**.
+🌊 Helmwave is **[helm3](https://github.com/helm/helm/)-native** tool for deploy your Helm Charts.
 HelmWave is like docker-compose for helm.
 
 > We focus on speed execution, tiny size, pretty debugging.
