@@ -11,7 +11,7 @@ With helmwave you will become a superhero:
 - Keep a directory of chart value files
 - Maintain changes in version control
 - Template values
-- Step by Step deployment (depends_on, allow_failure)
+- Step by Step deployment (`depends_on`, `allow_failure`)
 - Live tracking kubernetes resources with kubedog
 - Fetch data from external datasource like vault, aws sm
 - ... and much more!
