@@ -3,6 +3,8 @@ HelmWave is like docker-compose for helm.
 
 > We focus on speed execution, tiny size, pretty debugging.
 
+[![asciicast](https://asciinema.org/a/591181.svg)](https://asciinema.org/a/591181)
+
 With helmwave you will become a superhero:
 
 - Deploy multiple environments by one step
@@ -15,4 +17,3 @@ With helmwave you will become a superhero:
 - Live tracking kubernetes resources with kubedog
 - Fetch data from external datasource like vault, aws sm
 - ... and much more!
-
